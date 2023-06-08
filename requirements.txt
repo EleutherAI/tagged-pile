@@ -1,0 +1,5 @@
+datasets
+spacy
+torch
+tqdm
+transformers
